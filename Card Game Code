@@ -1,0 +1,84 @@
+Card Game: Uno
+
+//Sequence
+
+Instructions"
+1) Gather at least one other person to play against you. 
+2) Use a deck of UNO cards.
+3) Choose a dealer by having each player pick one card.
+4) Deal each player seven cards and place the remaining cards face down in the middle of the table.
+5) Turn over the top card of the draw pile and place this card next to the draw pile to form the discard pile.
+6) Take turns beginning with the player to the dealer's left and go clockwise around the table.
+7) Place one of your cards on the discard pile when it's your turn.
+8) Draw a card if you cannot discard.
+9) Announce a suit when you place a wild card on the discard pile.
+10) Announce a suit when you place a Wild Draw Four card on the discard pile.
+11) Follow the directions of an Action Card that is played on the discard pile by the player preceding you. 
+12) Remember to say "UNO" when you have one card left in your hand.
+13) Player wins if they end up with no cards in their hands.
+
+//Selection 
+
+Gather at least one other person to play against you.
+
+Use a deck of UNO cards. 
+
+Choose a dealer by having each player pick one card.
+
+Deal each player seven cards and place the remaining cards face down in the middle of the table. 
+
+Turn over the top card of the draw pile and place this card next to the draw pile to from the discard pile. 
+
+Take turns beginning with the player to the dearler's left and go clockwise around the table.
+
+If the player puts a reverse card down, then the order reverses.
+If the player puts a skip card down, the order remains the same. 
+
+Place one of your cards on the discard pile when it's your turn.
+
+Draw a card if you cannot discard.
+
+If the player does not have a card of the same color
+
+Announce a suit when you place a wild card on the discard pile.
+
+Announce a suit when you place a Wild Draw Four card on the discard pile.
+
+Follow the directions of an Action Card that is played on the discard pile by the player preceding you.
+
+Remember to say "UNO" when you have one card left in your hand.
+
+Player wins if they end up with no cards in their hand. 
+
+//Repetition
+
+Gather at least one other person to play against you.
+
+Use a deck of UNO cards. 
+
+Choose a dealer by having each player pick one card.
+
+Deal each player seven cards and place the remaining cards face down in the middle of the table. 
+
+Turn over the top card of the draw pile and place this card next to the draw pile to from the discard pile. 
+
+Take turns beginning with the player to the dearler's left and go clockwise around the table.
+
+If the player puts a reverse card down, then the order reverses.
+If the player puts a skip card down, the order remains the same. 
+
+Place one of your cards on the discard pile when it's your turn.
+
+Draw a card if you cannot discard.
+
+If the player does not have a card of the same color
+
+Announce a suit when you place a wild card on the discard pile.
+
+Announce a suit when you place a Wild Draw Four card on the discard pile.
+
+Follow the directions of an Action Card that is played on the discard pile by the player preceding you.
+
+Remember to say "UNO" when you have one card left in your hand.
+
+Player wins if they end up with no cards in their hand.
